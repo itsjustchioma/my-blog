@@ -1,7 +1,7 @@
 # Differences between a framework and a library.
 
 
-We developers tend to use these two terms interchangeably. What we don’t know is there are prime differences between the two. In this short article, we explain the differences between the two.
+We developers tend to use these two terms interchangeably. What we don’t know is that there are prime differences between the two. In this article, the distinctions between the two will be discussed.
 
 ## What is a framework?
 
