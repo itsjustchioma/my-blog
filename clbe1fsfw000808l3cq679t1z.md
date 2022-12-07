@@ -57,7 +57,7 @@ Here are a few incredible developers you can follow:
 - [Agba Akin](https://twitter.com/Kynsofficial)
 - [Chisom Nwokwu](https://twitter.com/tech_queen)
 
-### Here are a few hashtags to use when tweeting to reach the right audience: 
+Here are a few hashtags to use when tweeting to reach the right audience: 
 - #100DaysOfCode 
 - #Programmer 
 - #Coder
