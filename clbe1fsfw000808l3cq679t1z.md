@@ -49,7 +49,7 @@ Websites like [StackOverflow](https://stackoverflow.com/) are every developer's 
 As a newbie to coding, please create a Twitter account. Post what you're learning and connect with other developers, even the ones that aren't in your niche. You can even ask them for advice or help when necessary. On Twitter, you'll not only meet amazing people, but you'll also find inspiration when you're feeling unproductive and lethargic. 
 
 Here are a few incredible developers you can follow:
-- [Dominu Kelvin](https://twitter.com/Dominus_Kelvin)
+- [K.O.O](https://twitter.com/Dominus_Kelvin)
 - [Trecia Kat](https://twitter.com/TreciaKS)
 - [The Great Bonnie](https://twitter.com/The_GreatBonnie)
 - [Francesco](https://twitter.com/FrancescoCiull4)
