@@ -69,8 +69,6 @@ Advantages of building Android applications with Kotlin include:
 * Kotlin has built-in support for coroutines which can simplify asynchronous programming and make it easier to write asynchronous code.
     
 
-&lt;div style="width:100%;height:0;padding-bottom:100%;position:relative;"&gt;&lt;iframe src="[https://giphy.com/embed/l0MYw6Cu1TfY3gsWk](https://giphy.com/embed/l0MYw6Cu1TfY3gsWk)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href="[https://giphy.com/gifs/paleycenter-l0MYw6Cu1TfY3gsWk"&gt;via](https://giphy.com/gifs/paleycenter-l0MYw6Cu1TfY3gsWk%22%3Evia) GIPHY&lt;/a&gt;&lt;/p&gt;
-
 That is not to say that you cannot and should not build Android apps with Java. I use Java for Android development as I have been proficient in Java before starting Android development.
 
 Overall, Kotlin makes Android development more efficient and less error-prone, while providing a more modern, language that is easier to read and maintain.
@@ -160,11 +158,7 @@ When building Android apps, we are required to use data structures often. They a
 
 I made the mistake of trying to learn Android from an Android tutorial that was almost six years old! I tried using the same dependencies as he did and it was nothing but a pool of errors.
 
-&lt;iframe src="[https://giphy.com/embed/BJfVgdhvQyLLu1klUR](https://giphy.com/embed/BJfVgdhvQyLLu1klUR)" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="[https://giphy.com/gifs/leroypatterson-disney-plus-error-code-76-BJfVgdhvQyLLu1klUR"&gt;via](https://giphy.com/gifs/leroypatterson-disney-plus-error-code-76-BJfVgdhvQyLLu1klUR%22%3Evia) GIPHY&lt;/a&gt;&lt;/p&gt;
-
 It was later I realized that most things in the tutorial were outdated.
-
-&lt;iframe src="[https://giphy.com/embed/l1KVaj5UcbHwrBMqI](https://giphy.com/embed/l1KVaj5UcbHwrBMqI)" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="[https://giphy.com/gifs/lifetimetv-adorable-babies-l1KVaj5UcbHwrBMqI"&gt;via](https://giphy.com/gifs/lifetimetv-adorable-babies-l1KVaj5UcbHwrBMqI%22%3Evia) GIPHY&lt;/a&gt;&lt;/p&gt;
 
 Staying up to date with the latest development in Android is crucial for Android developers. It helps developers remain competitive and build cutting-edge apps that meet the needs of the modern user.
 
