@@ -54,7 +54,7 @@ Ensure your system meets the requirements listed so that you can build Android a
 
 On 7 May 2019, Google announced that Kotlin is its preferred language for Android development. If you are an absolute beginner with no prior knowledge of Java or Kotlin, it is advisable to learn Kotlin for Android development.
 
-Check out my tweet.
+Check out my \[tweet\]([https://twitter.com/itsjustchioma/status/1583488913749856256](https://twitter.com/itsjustchioma/status/1583488913749856256)).
 
 Advantages of building Android applications with Kotlin include:
 
