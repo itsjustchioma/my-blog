@@ -5,8 +5,8 @@ seoDescription: "Learn how to simplify your JavaScript codebase using modules. M
 datePublished: Thu May 11 2023 09:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clhixirbx00vvpjnvdlr68brr
 slug: a-dummies-guide-to-mastering-modules-in-javascript
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683788716071/5f409c8f-6efc-4538-8f57-0167e9f95f49.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683788800739/1f22390b-f1e1-4c3b-9b11-c64f32bb061f.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689770774831/3eb210af-d178-42dd-8d05-d7ff7223f18b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689770975967/eb80f98a-bcd4-44b3-a540-2a558e03ed44.png
 tags: javascript-modules
 
 ---
