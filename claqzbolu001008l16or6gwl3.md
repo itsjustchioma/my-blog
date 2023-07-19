@@ -1,4 +1,19 @@
-# = vs == vs === in Javascript.
+---
+title: "Demystifying JavaScript Equality Operators: = vs == vs ==="
+seoTitle: "= vs == vs === in javascript"
+seoDescription: "= vs == vs === in javascript
+javascript assignment operator
+javascript equality operator
+javascript strict equality operator 
+difference between = == ==="
+datePublished: Mon Nov 21 2022 16:05:21 GMT+0000 (Coordinated Universal Time)
+cuid: claqzbolu001008l16or6gwl3
+slug: demystifying-javascript-equality-operators-vs-vs
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673726790530/191da72f-46a0-481e-b223-ee8081c5e7c2.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1673726811765/7bc31678-a1b4-4c2e-a536-12d42a3e7f89.jpeg
+tags: javascript, equality-operator-in-javascript, strict-equality-operator, assignment-operator
+
+---
 
 Javascript developers are faced with this question more often than not and can’t answer it. In this article, I’ll explain the differences between each of them.
 
