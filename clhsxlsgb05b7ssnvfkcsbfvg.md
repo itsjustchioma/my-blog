@@ -6,7 +6,7 @@ datePublished: Thu May 18 2023 09:30:42 GMT+0000 (Coordinated Universal Time)
 cuid: clhsxlsgb05b7ssnvfkcsbfvg
 slug: the-importance-of-using-try-catch-in-javascript-for-graceful-error-handling
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689770361343/02a2d95a-e796-4938-a95f-8ce0d9a5434f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683790310455/b575499e-2d39-4bfd-82d7-8b845faff589.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689770440326/bb0660f6-75f9-413e-809a-4d7a83dcd232.png
 tags: javascript, trycatch
 
 ---
